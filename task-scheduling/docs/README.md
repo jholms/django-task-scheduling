@@ -49,5 +49,5 @@ These instructions will get you a copy of the project up and running on your loc
     ```
 
 ### Questions?
-	-Happy Coding
-	-Send me a message if you have any issues.
+	Happy Coding
+	Send me a message if you have any issues.
